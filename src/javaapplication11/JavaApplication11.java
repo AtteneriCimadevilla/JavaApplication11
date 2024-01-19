@@ -14,7 +14,7 @@ public class JavaApplication11 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Esto es una simulación de examen.")
+        System.out.println("Esto es una simulación de examen.");
     }
     
 }
